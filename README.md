@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  Hi, Nice to meet you.
+</h1>
+<h2 align="center">I am a FrontEnd Developer.</h2>
 
-<!--
-**amir-rahmanii/amir-rahmanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I am a FrontEnd Developer.I try to improve my skills. And now I'm learning React</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/BootStrap-blue) ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Tailwind-blue) 
+
+
