@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, Nice to meet you.
 </h1>
-<h2 align="center">I am a FrontEnd Developer...</h2>
+<h2 align="center">I am a FrontEnd Developer..</h2>
 
 <h4 align="center">I am a FrontEnd Developer.I try to improve my skills. And now I'm learning React.</h4>
 
